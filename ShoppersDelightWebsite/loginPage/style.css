@@ -1,0 +1,19 @@
+.login-page-bg-container
+{
+   background-color:grey;
+   margin-top:20px;
+   padding:20px;
+}
+.logo-image
+{
+   height:500px;
+}
+.contents-card
+{
+   background-color:white;
+   width:500px;
+}
+.heading
+{
+   font-family: 'DynaPuff', cursive;
+}
